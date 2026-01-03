@@ -124,7 +124,7 @@ pipeline {
                         echo "Cloning Kubernetes repo for canary update..."
                         rm -rf Kubernetes
                         git clone https://github.com/MSAdithya45/Kubernetes.git
-                        cd kubernetes/kubernetes
+                        cd Kubernetes/kubernetes
 
                         echo "Updating canary YAML files with new images..."
                         sed -i "s|image: madithya/frontend:.*|image: madithya/frontend:${BUILD_NUMBER}|" frontend-canary.yaml
