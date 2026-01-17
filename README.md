@@ -83,8 +83,7 @@ The pipeline integrates security and automation tools to achieve DevSecOps workf
 - **SonarQube** ensures code quality and maintainability  
 - **Trivy** scans Docker images for vulnerabilities  
 - **Docker** packages the application  
-- **ArgoCD** handles GitOps-based deployments to AWS EKS  
-- **CloudWatch** enables monitoring and observability  
+- **ArgoCD** handles GitOps-based deployments to AWS EKS   
 
 ---
 
@@ -113,6 +112,7 @@ The pipeline integrates security and automation tools to achieve DevSecOps workf
 | SCM | GitHub |
 | Application | MERN Stack (Socio-Echo) |
 | Grafana | Prometheus|
+|DC | OWASP
 
 ---
 
