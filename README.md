@@ -99,8 +99,6 @@ The pipeline integrates security and automation tools to achieve DevSecOps workf
 7. Push updated manifests to GitHub  
 8. ArgoCD syncs the EKS cluster  
 9. Deploy updated application versions  
-10. Monitor application using CloudWatch  
-
 ---
 
 ## 🛠️ Tools & Technologies Used
