@@ -113,7 +113,6 @@ The pipeline integrates security and automation tools to achieve DevSecOps workf
 | Containers | Docker |
 | GitOps | ArgoCD |
 | SCM | GitHub |
-| Monitoring | AWS CloudWatch |
 | Application | MERN Stack (Socio-Echo) |
 | Grafana | Prometheus|
 
@@ -127,8 +126,7 @@ The following validations were performed:
 - Code quality verification via SonarQube  
 - Vulnerability detection using Trivy  
 - Automated GitOps deployments using ArgoCD  
-- Application availability on AWS EKS  
-- Monitoring logs and metrics via CloudWatch  
+- Application availability on AWS EKS   
 
 ---
 
