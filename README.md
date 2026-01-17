@@ -149,16 +149,6 @@ The application was containerized and deployed using Kubernetes on AWS EKS.
 - **Mukhesh D N**
 ---
 
-## 🚀 Future Enhancements
-
-- Add Prometheus & Grafana for advanced monitoring  
-- Implement Blue-Green deployment strategy  
-- Add OWASP Dependency-Check  
-- Enable automated rollback using ArgoCD  
-- Integrate Slack/Email notifications  
-
----
-
 ## 📄 License
 
 This project is for educational and demonstration purposes.
