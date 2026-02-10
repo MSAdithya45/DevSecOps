@@ -8,7 +8,8 @@ The pipeline integrates **Jenkins, SonarQube, Trivy, Docker, and ArgoCD** to ach
 
 Click the thumbnail below to watch the complete end-to-end demonstration of the DevSecOps pipeline:
 
-[![DevSecOps Pipeline Demo](https://img.youtube.com/vi/5dfXffclH4s/0.jpg)](https://www.youtube.com/watch?v=50ur0lY6pqU)
+[![DevSecOps Pipeline Demo](![Uploading Arch.jpeg…]()
+)](https://www.youtube.com/watch?v=50ur0lY6pqU)
 
 
 This demo covers:
